@@ -1,0 +1,34 @@
+/* museo sans curl */
+
+@font-face {
+  font-family: 'museo';
+  src: url(../fonts/museo-sans-cyrl/museosanscyrl-300.ttf) format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'museo';
+  src: url(../fonts/museo-sans-cyrl/museosanscyrl-500.ttf) format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'museo';
+  src: url(../fonts/museo-sans-cyrl/museosanscyrl-700.ttf) format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'museo';
+  src: url(../fonts/museo-sans-cyrl/museosanscyrl-900.ttf) format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* gilroy */
+@font-face {
+  font-family: "gilroy";
+  src: url(../fonts/Gilroy/Gilroy-Semibold.ttf) format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}

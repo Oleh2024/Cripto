@@ -1,0 +1,34 @@
+.bg-bitcoin {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-dogecoin {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -54px -10px;
+}
+
+x
+.bg-ethereum {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -10px -54px;
+}
+
+x
+.bg-litecoin {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -54px -54px;
+}
+
+x
+.bg-monero {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -98px -10px;
+}
+
+x
+.bg-zcash {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -98px -54px;
+}
